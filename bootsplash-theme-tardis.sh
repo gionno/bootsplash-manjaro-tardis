@@ -41,7 +41,7 @@ convert -alpha remove \
 	--pic_width $LOGO_WIDTH \
 	--pic_height $LOGO_HEIGHT \
 	--pic_position 0x05 \
-	--pic_position_offset 250 \
+	--pic_position_offset 120 \
 	--blob logo.rgb \
 	--picture \
 	--pic_width $THROBBER_WIDTH \
