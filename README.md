@@ -1,6 +1,9 @@
 # bootsplash-theme-tardis
 Kernel Bootsplash theme for manjaro Linux using tardis
 
+preview here
+https://youtu.be/09izOKuxexU
+
 # Installation:
 
 - append `bootsplash-theme-tardis` hook in the end of HOOKS string of `/etc/mkinitcpio.conf`
