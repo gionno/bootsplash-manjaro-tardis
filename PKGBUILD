@@ -1,12 +1,12 @@
 pkgbase=bootsplash-themes
 pkgname=('bootsplash-theme-tardis')
-pkgver=0.1
-pkgrel=1
+pkgver=0.2
+pkgrel=3
 url="https://lists.freedesktop.org/archives/dri-devel/2017-December/160242.html"
 arch=('x86_64')
 license=('GPL')
 
-depends=('linux414' 'systemd')
+depends=('systemd')
 builddepends=('imagemagick')
 options=('!libtool' '!emptydirs')
 
